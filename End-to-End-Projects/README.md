@@ -4,23 +4,19 @@ Showcasing real-world applications of geospatial technology from data collection
 ---
 
 ## 📚 Learning & Inspiration
-- [**Learn PyTorch in 5 Projects**](https://www.youtube.com/watch?v=E0bwEAWmVEM) - A great tutorial for deep learning enthusiasts.
+| Resource | Description | Link |
+| :--- | :--- | :--- |
+| **Learn PyTorch** | 5 project-based tutorials for deep learning. | [YouTube](https://www.youtube.com/watch?v=E0bwEAWmVEM) |
+| **Deep Learning Projects** | Comprehensive playlist for AI and GIS projects. | [YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S) |
 
-Ddep Learning Projects https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S
+---
 
 ## 📌 Featured Projects
-
-### 🏘️ Urban Sustainability Index
-- **Goal**: Map cities based on green space accessibility and air quality.
-- **Tech**: Python (Geopandas), OpenStreetMap Data, Leaflet.
-
-### 🛰️ Automated Deforestation Detection
-- **Goal**: Use Sentinel-2 imagery to detect changes in forest cover over time.
-- **Tech**: Google Earth Engine (GEE), Random Forest classifier.
-
-### 🚗 Real-time Traffic Analysis
-- **Goal**: Analyze urban traffic flow and suggest optimal routes.
-- **Tech**: PostGIS, OSMnx, Mapbox API.
+| Project Name | Primary Goal | Tech Stack |
+| :--- | :--- | :--- |
+| **Urban Sustainability Index** | Map cities by green space access & air quality. | Python (Geopandas), OSM, Leaflet |
+| **Automated Deforestation** | Sentinel-2 based change detection for forest cover. | GEE, Random Forest Classifier |
+| **Real-time Traffic Analysis**| Urban traffic flow analysis and route optimization. | PostGIS, OSMnx, Mapbox API |
 
 ---
 

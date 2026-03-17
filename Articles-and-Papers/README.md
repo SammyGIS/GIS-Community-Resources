@@ -95,6 +95,7 @@ Extended libraries and journal tags for continued learning.
 | Resource Name | Description | Link |
 | :--- | :--- | :--- |
 | **Medium: Remote Sensing Stories** | A feed of the most insightful and recent stories about Remote Sensing. | [Browse Feed](https://medium.com/tag/remote-sensing) |
+| **EO AFRICA R&D Portal** | A research facility providing earth observation data and tools specialized for the African continent. | [Visit Portal](https://www.eoafrica-rd.org/) |
 
 ---
 
