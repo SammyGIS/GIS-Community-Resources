@@ -24,6 +24,7 @@ graph TD
 Deep Learning is built on math. Understanding these concepts will make you a much stronger practitioner.
 
 - [**Backpropagation by Hand | The Math You Should Know**](https://www.youtube.com/watch?v=12-HUfbyGso) - A step-by-step hand-calculation of how gradients flow through a neural network. Essential for understanding *why* models learn.
+- [**Mathematical Engineering of Deep Learning**](https://deeplearningmath.org/) - A comprehensive resource covering the mathematical theory behind Deep Learning algorithms and architectures.
 
 > 💡 **Key Math Topics to Know:**
 > - **Linear Algebra**: Matrices, dot products, and transformations.
