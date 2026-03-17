@@ -1,5 +1,5 @@
 # 🎓 Geospatial Learning Courses
-This folder contains curated links and resources for various GIS and Geospatial Data Science courses.
+This folder contains curated links and resources for various GIS and Geospatial Data Science courses, organized by a progressive learning roadmap.
 
 ---
 
@@ -19,6 +19,11 @@ This folder contains curated links and resources for various GIS and Geospatial 
 
 ### 🎨 Visualization & Design
 - [**Geovisualization**](./Geovisualization.md) - Modern cartography and dashboarding.
+
+### 🧪 Geospatial Data Science & Engineering
+- [**Geospatial Data Science**](./Geospatial-Data-Science.md) - Extracting insights using spatial data science.
+- [**Geospatial Data Engineering**](./Geospatial-Data-Engineering.md) - Building robust spatial data pipelines.
+- [**Cloud Geospatial Tools**](./Cloud-Geopstial-Tools.md) - Scalable processing in the cloud.
 
 ### 🌍 Earth Sciences
 - [**Climate Science**](./Climate-science.md) - Using GIS for climate modeling and analysis.

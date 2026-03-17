@@ -1,15 +1,26 @@
-# 🎓 Machine Learning Resources
-
-Coming soon! This page will contain curated links and course materials for **Machine Learning**.
+# 🤖 Machine Learning for GIS
+Integrating Machine Learning algorithms with spatial data for predictive modeling and classification.
 
 ---
-Machine Learning Tutorial Python - https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 
+## 🛤️ Roadmap Flow
+```mermaid
+graph TD
+    A[Pre-processing & Spatial Joins] --> B[Feature Engineering: NDVI, Terrain]
+    B --> C[Model Training: RF, SVM, XGBoost]
+    C --> D[Spatial Evaluation & Validation]
+```
 
-## 📌 Topics to be covered
-- Core Concepts
-- Advanced Techniques
-- Real-world Applications
+---
+
+## 🏛️ Level 1: Foundations & Classical Models
+- [**Machine Learning Tutorial Python**](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Comprehensive series on ML fundamentals in Python.
+
+## 🛠️ Level 2: Geospatial Implementation
+- _Coming soon! (Links for spatial regression and spatial weights)_
+
+## 🚀 Level 3: Advanced Optimization
+- _Coming soon! (Hyperparameter tuning for spatial models)_
 
 ---
 _Happy Mapping! 🌍✨_

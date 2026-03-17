@@ -1,13 +1,26 @@
-# 🎓 Geospatial Analysis Resources
+# 🗺️ Geospatial Analysis
+Core concepts and methodologies for spatial reasoning and analysis.
 
-Coming soon! This page will contain curated links and course materials for **Geospatial Analysis**.
+---
+
+## 🛤️ Roadmap Flow
+```mermaid
+graph TD
+    A[Geometry: Projections & Datums] --> B[Operations: Intersect, Buffer, Join]
+    B --> C[Advanced: Network & Hydrology Analysis]
+    C --> D[Surface: Interpolation & DEM Analysis]
+```
 
 ---
 
-## 📌 Topics to be covered
-- Core Concepts
-- Advanced Techniques
-- Real-world Applications
+## 🏛️ Level 1: Geometric Foundations
+_Coordinate Reference Systems (CRS) and Projections coming soon._
+
+## 🛠️ Level 2: Vector & Raster Operations
+_Resources for basic spatial joins and map algebra coming soon._
+
+## 📍 Level 3: Network & Path Analysis
+_Tutorials on routing and connectivity coming soon._
 
 ---
-_Happy Mapping! 🌍✨_
+_Think spatially! 🌍_

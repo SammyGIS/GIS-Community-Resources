@@ -1,18 +1,29 @@
-# 🎓 Python Resources
+# 🐍 Python for Geospatial
+Python is the industry standard for GIS automation and data science.
 
-## 🐍 Python for Geospatial
-Python is the industry standard for GIS automation and data science. Here are the core libraries and resources:
+---
 
-### 🛠️ Core Libraries
-- [**GeoPandas**](https://geopandas.org/) - Extends pandas to allow spatial operations on geometric types.
-- [**Shapely**](https://shapely.readthedocs.io/) - Manipulation and analysis of geometric objects.
-- [**Fiona**](https://fiona.readthedocs.io/) - Reading and writing spatial data files.
-- [**Rasterio**](https://rasterio.readthedocs.io/) - Access to geospatial raster data.
-- [**PySAL**](https://pysal.org/) - Python Spatial Analysis Library.
+## 🛤️ Roadmap Flow
+```mermaid
+graph TD
+    A[Core Python: Syntax, Lists, Dicts] --> B[Data Science: NumPy, Pandas]
+    B --> C[Geospatial: GeoPandas, Shapely]
+    C --> D[Automation: ArcPy, PyQGIS, GDAL]
+```
 
-### 📚 Learning Resources
-- [**Automating GIS Processes**](https://autogis-site.readthedocs.io/) - A free course from the University of Helsinki.
-- [**Geographic Data Science with Python**](https://geographicdata.science/book/intro.html) - An open-source book on spatial data science.
+---
+
+## 🏛️ Level 1: Core Python Fundamentals
+_Resources for basic syntax and logic coming soon._
+
+## 📊 Level 2: Data Science with Pandas
+_Resources for data manipulation coming soon._
+
+## 🗺️ Level 3: Geospatial Analysis (GeoPandas)
+_Resources for spatial operations coming soon._
+
+## ⚙️ Level 4: Industry Automation
+_Resources for ArcPy / PyQGIS scripts coming soon._
 
 ---
 _Happy Mapping! 🌍✨_
