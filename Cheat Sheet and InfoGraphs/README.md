@@ -4,25 +4,16 @@ This repository contains a collection of **cheat sheets, quick reference guides,
 
 ---
 
+## 📌 Available Resources
+
+### 📜 PDF Cheat Sheets
+- 🤖 [**50 Days of Machine Learning Infographics**](./50%20days%20of%20Machine%20Learning%20with%20Infographics.pdf)
+- 📊 [**ArcGIS to R Spatial Cheat Sheet**](./ArcGIS_to_R_Spatial_CheatSheet.pdf)
+- 🌍 [**Geospatial Analytics Cheat Sheet**](./cheat-sheet-geospatial-analytics-2503.pdf)
+
+---
+
 ## 📌 Categories  
-
-### 🛰️ Remote Sensing Cheat Sheets  
-- Key remote sensing concepts, satellite data processing, and image classification workflows.  
-- Spectral indices (NDVI, NDBI, NDWI) and their applications.  
-
-### 🗺️ GIS Cheat Sheets  
-- Common GIS operations, spatial analysis techniques, and geoprocessing workflows.  
-- Quick reference for geospatial tools like QGIS, ArcGIS, and GDAL.  
-
-### 💻 Geospatial Programming Cheat Sheets  
-- Python for GIS: GeoPandas, Rasterio, Shapely, and Folium basics.  
-- R for spatial data analysis and visualization.  
-- SQL for spatial databases (PostGIS).  
-
-### 🤖 Machine Learning & AI in GIS Infographics  
-- Overview of machine learning models for spatial analysis.  
-- Deep learning techniques for remote sensing and geospatial applications.  
-- Workflow for AI-driven geospatial modeling.  
 
 ---
 

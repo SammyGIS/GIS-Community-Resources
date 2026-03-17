@@ -1,7 +1,6 @@
 # Top Geospatial Content Creators and Accounts to Follow on YouTube
 These channels provide a wealth of knowledge on various aspects of geospatial science, ranging from remote sensing, GIS software, data science, AI applications, and cloud computing. Whether you are a beginner or an expert, these resources can enhance your understanding and skills in the geospatial domain.
 
-
 ## GDAL Tutorials
 - **Making Sense Remotely** - [YouTube Channel](https://www.youtube.com/@makingsenseremotely6207/)
   - Focuses on remote sensing and GIS applications using GDAL and other tools.
