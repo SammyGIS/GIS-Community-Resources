@@ -3,6 +3,11 @@ Showcasing real-world applications of geospatial technology from data collection
 
 ---
 
+## 📚 Learning & Inspiration
+- [**Learn PyTorch in 5 Projects**](https://www.youtube.com/watch?v=E0bwEAWmVEM) - A great tutorial for deep learning enthusiasts.
+
+Ddep Learning Projects https://www.youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S
+
 ## 📌 Featured Projects
 
 ### 🏘️ Urban Sustainability Index

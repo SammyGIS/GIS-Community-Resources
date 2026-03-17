@@ -12,7 +12,7 @@ Welcome to the **GIS Community Resources** repository! This is a curated hub for
 | 📰 [**Articles & Papers**](./Articles-and-Papers) | Research papers and insightful geospatial articles. |
 | 🎓 [**Courses**](./Courses) | Recommended learning paths and course materials. |
 | 📜 [**Cheat Sheets**](./Cheat-Sheets) | Quick reference guides for GIS, Python, and SQL. |
-| 📊 [**Data & Sources**](./Data%20and%20Sources) | Links to open-source geospatial datasets. |
+| 📊 [**Data & Sources**](./Data-and-Sources) | Links to open-source geospatial datasets. |
 | 🛤️ [**Roadmaps**](./Roadmaps) | Structured paths for beginners and advanced learners. |
 | 🏁 [**End-to-End Projects**](./End-to-End-Projects) | Real-world project examples and case studies. |
 | 🏆 [**Hackathons**](./Hackathon) | Resources and guidelines for GIS competitions. |

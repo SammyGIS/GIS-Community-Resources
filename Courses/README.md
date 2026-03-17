@@ -18,7 +18,7 @@ This folder contains curated links and resources for various GIS and Geospatial 
 - [**Spatial Statistics**](./Spatial-Statistics.md) - Advanced statistical modeling of geographic data.
 
 ### 🎨 Visualization & Design
-- [**Geovisualization**](./Geovisulization.md) - Modern cartography and dashboarding.
+- [**Geovisualization**](./Geovisualization.md) - Modern cartography and dashboarding.
 
 ### 🌍 Earth Sciences
 - [**Climate Science**](./Climate-science.md) - Using GIS for climate modeling and analysis.
@@ -26,7 +26,7 @@ This folder contains curated links and resources for various GIS and Geospatial 
 ---
 
 ## 🔗 Quick Links
-- [**Online Courses URL List**](./Online%20Courses%20URL.md) - A compilation of external course links.
+- [**Online Courses URL List**](./Online-Courses-URL.md) - A compilation of external course links.
 
 ---
 🚀 **Keep learning and mapping!**
