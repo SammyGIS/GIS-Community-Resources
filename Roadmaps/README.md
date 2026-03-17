@@ -17,15 +17,18 @@ This section outlines the stages of development for various geospatial career pa
 - **Stage 3: Reporting**
     - [Spatial Statistics](../Courses/Spatial-Statistics.md)
 
-### 💻 2. Geospatial Developer
+### 💻 2. Geospatial Developer (Full Stack)
 *Focus: Building tools, automating workflows, and web mapping.*
-- **Stage 1: Scripting**
-    - [Python for GIS](../Courses/Python.md)
-- **Stage 2: Web Systems**
-    - [Geovisualization (Web Mapping)](../Courses/Geovisualization.md)
-    - [Google Earth Engine](../Courses/Google-earth-engine.md)
-- **Stage 3: Advanced APIs**
-    - [Cloud Geospatial Tools](../Courses/Cloud-Geopstial-Tools.md)
+
+#### 🎨 Frontend Focus
+- **Stage 1: Core Web**: HTML, CSS, JavaScript basics.
+- **Stage 2: Map Libraries**: [Leaflet.js, Mapbox GL JS, OpenLayers](../Courses/Geovisualization.md).
+- **Stage 3: Frameworks**: React/Vue with spatial integration (pydeck/kepler.gl).
+
+#### 🗄️ Backend Focus
+- **Stage 1: Scripting**: [Python for GIS (ArcPy/PyQGIS)](../Courses/Python.md).
+- **Stage 2: Spatial APIs**: Building REST APIs with Fast API/Flask + [PostGIS](../Courses/Geospatial-Data-Engineering.md).
+- **Stage 3: Cloud & DevOps**: [Cloud Tools & Serverless GIS](../Courses/Cloud-Geopstial-Tools.md).
 
 ### 🧪 3. Geospatial Data Scientist
 *Focus: Predictive modeling, machine learning, and advanced analytics.*

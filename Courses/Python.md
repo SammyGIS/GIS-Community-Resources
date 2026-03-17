@@ -10,6 +10,11 @@ graph TD
     B --> C[Geospatial: GeoPandas, Shapely]
     C --> D[Automation: ArcPy, PyQGIS, GDAL]
 ```
+---
+
+## 🛠️ Mandatory Prerequisites
+*   **Logical Reasoning**: Basic understanding of algorithms and flows.
+*   **English Proficiency**: For reading technical documentation.
 
 ---
 
