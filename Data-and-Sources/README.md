@@ -8,7 +8,12 @@ Spatial data is the foundation of Geographic Information Systems (GIS) and Remot
 - **Vector Data**: Points, Lines, and Polygons (e.g., roads, buildings, administrative boundaries)  
 - **Raster Data**: Gridded data such as satellite images and elevation models  
 - **Tabular Data**: Attribute data linked to spatial features  
-- **3D Data**: LiDAR, DEM (Digital Elevation Models), and point cloud data  
+## 💡 Tips for Data Sourcing
+When choosing a data source for your GIS project, keep these factors in mind:
+*   **Scale**: Is the data detail appropriate for your study area (e.g., global vs. local)?
+*   **Temporal Resolution**: How often is the data updated? Is it recent enough for your needs?
+*   **Coordinate System**: Always check the CRS (Coordinate Reference System) to ensure it aligns with your existing layers.
+*   **Format Compatibility**: Ensure your software (QGIS, ArcGIS, Python) can natively read the format (e.g., Shapefile, GeoJSON, GeoTIFF).
 
 ---
 

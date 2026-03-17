@@ -4,7 +4,6 @@ Whether you are a beginner or looking to advance your GIS career, follow these s
 ---
 
 ## 🗺️ Career Path-Based Roadmaps
-
 This section outlines the stages of development for various geospatial career paths. Each path includes the tools required and links to resources within this repository.
 
 ### 🧩 1. GIS & Geospatial Analyst
@@ -18,7 +17,7 @@ This section outlines the stages of development for various geospatial career pa
 - **Stage 3: Reporting**
     - [Spatial Statistics](../Courses/Spatial-Statistics.md)
 
-### � 2. Geospatial Developer
+### 💻 2. Geospatial Developer
 *Focus: Building tools, automating workflows, and web mapping.*
 - **Stage 1: Scripting**
     - [Python for GIS](../Courses/Python.md)

@@ -1,29 +1,36 @@
 # 📰 GIS & Remote Sensing Articles
-A collection of research papers, introductory guides, and technical articles.
+A structured collection of research papers, introductory guides, and technical articles to deepen your spatial knowledge.
 
 ---
 
-## 🗺️ Table of Contents
+## 🗺️ Article Directory
 
-| # | Topic | Article Link |
+Explore articles by topic. Each link leads to a curated selection of readings.
+
+| Section | Topic | Highlights |
 | :--- | :--- | :--- |
-| 1 | 📌 Introduction | [Intro to GIS & Remote Sensing](./1-introduction-to-gis-and-remote-sensing.md) |
-| 2 | 🌍 Spatial Data | [Data & Data Sources](./2-spatial-data-and-data-sources.md) |
-| 3 | 🛰️ Techniques | [Remote Sensing Applications](./3-remote-sensing-techniques-and-applications.md) |
-| 4 | 🗺️ Analysis | [GIS Analysis & Statistics](./4-gis-analysis-and-spatial-statistics.md) |
-| 5 | 🧠 Machine Learning | [ML & AI in GIS](./5-machine-learning-and-ai-in-gis.md) |
-| 6 | ☁️ Cloud Computing | [Cloud & Big Data](./6-cloud-computing-and-big-data-in-gis.md) |
-| 7 | 📊 Visualization | [Geospatial Visualization](./7-geospatial-data-visualization.md) |
-| 8 | 🔬 Advanced Topics | [Advanced GIS Research](./8-advanced-topics-in-gis-and-remote-sensing.md) |
-| 9 | 📚 Resources | [Further Reading](./9-resources-and-further-reading.md) |
+| 1 | 📌 [**Introduction**](./1-introduction-to-gis-and-remote-sensing.md) | Basics of GIS and RS relationships. |
+| 2 | 🌍 [**Spatial Data**](./2-spatial-data-and-data-sources.md) | Vector vs Raster and Data Sourcing. |
+| 3 | 🛰️ [**Techniques**](./3-remote-sensing-techniques-and-applications.md) | Multispectral analysis and RS apps. |
+| 4 | 🗺️ [**Analysis**](./4-gis-analysis-and-spatial-statistics.md) | Buffering, Overlay, and Spatial Stats. |
+| 5 | 🧠 [**Machine Learning**](./5-machine-learning-and-ai-in-gis.md) | Object detection and classification. |
+| 6 | ☁️ [**Cloud Computing**](./6-cloud-computing-and-big-data-in-gis.md) | Big Data and GEE breakthroughs. |
+| 7 | 📊 [**Visualization**](./7-geospatial-data-visualization.md) | Cartographic design and web maps. |
+| 8 | 🔬 [**Advanced Topics**](./8-advanced-topics-in-gis-and-remote-sensing.md) | SAR, LiDAR, and Hyperspectral research. |
+| 9 | 📚 [**Reading List**](./9-resources-and-further-reading.md) | External journals and blog suggestions. |
 
 ---
 
+## 🔑 Pro-Tip: Accessing Medium Articles
+Many high-quality geospatial articles are published on Medium. If you encounter a paywall:
+1. Copy the article URL.
+2. Visit [**Freedium**](https://freedium.cfd/).
+3. Paste the URL to read the full content for free.
+
+---
 
 ## 📌 Contributing  
-Feel free to suggest additional topics or share relevant articles!
+Found a great paper or wrote an article? We'd love to include it! Please ensure articles are relevant to the geospatial community.
 
 ---
-
-## 🔑 Accessing Medium's Payed Article for Free
-If you encounter paywalled articles on Medium, use [Freedium](https://freedium.cfd/) to access them for free. Simply copy the URL of the Medium article and paste it into Freedium's search bar to read the full content without restrictions.
+_Stay curious and keep reading! 📖✨_

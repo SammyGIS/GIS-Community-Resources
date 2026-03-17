@@ -17,7 +17,7 @@ graph TD
 - [**Deep Learning with CNNs (Playlist)**](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9U0XHz62Lw6EgIMkQpfz74) - Comprehensive series on CNN architectures.
 
 ## 🛠️ Frameworks: TensorFlow & PyTorch
-- [**Deep learning with Tensorflow, Keras and python**](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) - Comprehensive tutorial series.
+- [**Deep Learning with TensorFlow, Keras, and Python**](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) - A comprehensive guide to building neural networks.
 
 ## 👁️ Advanced: Vision Transformers (ViT)
 - [**Vision Transformers - Explained!**](https://www.youtube.com/watch?v=Hnsrm1ezI3g) - Conceptual overview.
