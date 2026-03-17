@@ -16,6 +16,7 @@ Welcome to the **GIS Community Resources** repository! This is a curated hub for
 | 🛤️ [**Roadmaps**](./Road%20Map) | Structured paths for beginners and advanced learners. |
 | 🏁 [**End Projects**](./End%20to%20End%20Projects) | Real-world project examples and case studies. |
 | 🏆 [**Hackathons**](./Hackathon) | Resources and guidelines for GIS competitions. |
+| 👥 [**Content Creators**](./Top%20Geospatial%20Content%20Creator%20your%20Should%20Follow) | Top YouTube channels and experts to follow. |
 
 ---
 

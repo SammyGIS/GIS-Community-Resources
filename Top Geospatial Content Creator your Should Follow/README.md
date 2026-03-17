@@ -15,11 +15,11 @@ These channels provide a wealth of knowledge on various aspects of geospatial sc
 - **Open Geospatial Solutions** - [YouTube Channel](https://www.youtube.com/@giswqs)
   - Specializes in geospatial data science, open-source software, and cloud computing for environmental analysis.
 
-## Geopsatial development an Programming
+## Geospatial Development and Programming
 - **Wanjohi Kibui** - [YouTube Channel](https://www.youtube.com/@WanjohiKibui)
   - Covers GIS programming, software guides, career advice, and geospatial problem-solving.
 
-## Geospaital Big Data, Cloud Computing, Goepstial Data Engineerign and Geospatial Analyst
+## Geospatial Big Data, Cloud Computing, Geospatial Data Engineering and Analysis
 - **Matt Forrest** - [YouTube Channel](https://www.youtube.com/@MattForrest)
   - Focuses on big data, cloud computing, and geospatial data engineering.
 
@@ -43,7 +43,7 @@ These channels provide a wealth of knowledge on various aspects of geospatial sc
 - **John Nelson Maps** - [YouTube Channel](https://www.youtube.com/@JohnNelsonMaps)
   - Explores aesthetic and artistic map design for better visualization.
 
-## Geosptial Solution and Disaster Management  
+## Geospatial Solutions and Disaster Management  
 - **GIScience** - [YouTube Channel](https://www.youtube.com/@GIScienceRIT/shorts)
   - Focuses on Geographic Information Science research, education, and disaster management.
 
