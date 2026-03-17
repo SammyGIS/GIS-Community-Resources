@@ -10,11 +10,11 @@ Are you new here? Follow a structured roadmap tailored to your career goals:
 
 | Path | Primary Focus | Start Here |
 | :--- | :--- | :--- |
-| 🧩 **Analyst** | Map making & spatial logic | [Analyst Roadmap](./Roadmaps/README.md#1-gis--geospatial-analyst) |
-| 💻 **Developer** | Automation & web maps | [Developer Roadmap](./Roadmaps/README.md#2-geospatial-developer) |
-| 🧪 **Data Scientist** | AI, ML & predictive modeling | [Data Science Roadmap](./Roadmaps/README.md#3-geospatial-data-scientist) |
-| ⚙️ **Data Engineer** | Pipelines & big spatial data | [Engineering Roadmap](./Roadmaps/README.md#4-geospatial-data-engineer) |
-| 🔬 **Researcher** | Climate & academic research | [Researcher Roadmap](./Roadmaps/README.md#5-geospatial-researcher) |
+| 🧩 **Geospatial Analyst** | Map making & spatial logic | [Analyst Roadmap](./Roadmaps/README.md#1-gis--geospatial-analyst) |
+| 💻 **Geospatial Developer** | Automation & web maps | [Developer Roadmap](./Roadmaps/README.md#2-geospatial-developer) |
+| 🧪 **Geospatial Data Scientist** | AI, ML & predictive modeling | [Data Science Roadmap](./Roadmaps/README.md#3-geospatial-data-scientist) |
+| ⚙️ **Geospatial Data Engineer** | Pipelines & big spatial data | [Engineering Roadmap](./Roadmaps/README.md#4-geospatial-data-engineer) |
+| 🔬 **Geospatial Researcher** | Climate & academic research | [Researcher Roadmap](./Roadmaps/README.md#5-geospatial-researcher) |
 
 ---
 
