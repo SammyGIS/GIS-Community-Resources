@@ -20,6 +20,18 @@ graph TD
 
 ---
 
+## ➗ Mathematics for Deep Learning
+Deep Learning is built on math. Understanding these concepts will make you a much stronger practitioner.
+
+- [**Backpropagation by Hand | The Math You Should Know**](https://www.youtube.com/watch?v=12-HUfbyGso) - A step-by-step hand-calculation of how gradients flow through a neural network. Essential for understanding *why* models learn.
+
+> 💡 **Key Math Topics to Know:**
+> - **Linear Algebra**: Matrices, dot products, and transformations.
+> - **Calculus**: Derivatives and the chain rule (the backbone of backprop).
+> - **Probability**: Distributions, loss functions, and regularization.
+
+---
+
 ## 🏛️ Foundations: CNNs & Basic Neural Nets
 - [**Neural Networks (Playlist - 3Blue1Brown)**](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Beautifully animated visual guide to how Neural Networks work from scratch.
 - [**Deep Learning with CNNs (Playlist)**](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9U0XHz62Lw6EgIMkQpfz74) - Comprehensive series on CNN architectures.
