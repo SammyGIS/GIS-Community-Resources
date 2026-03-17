@@ -1,0 +1,23 @@
+# Windows-specific
+Thumbs.db
+desktop.ini
+
+# GIS Software temporary files
+*.lock
+*.log
+*.aux
+*.cpg
+*.sbx
+*.sbn
+*.tmp
+
+# Common software
+.DS_Store
+*.swp
+*.bak
+
+# Large files to be handled by LFS or ignored
+# *.pdf
+# *.zip
+# *.csv
+# *.geojson

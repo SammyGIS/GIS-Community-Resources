@@ -1,28 +1,35 @@
-# 📚 GIS and Remote Sensing Books Repository  
-
-This repository contains a curated collection of books and learning resources focused on **Geospatial**, covering topics such as **Remote Sensing, GIS, Programming, Machine Learning, Spatial Data Science (SPD), and AI**. These books are essential for geospatial professionals, researchers, and data scientists looking to expand their knowledge and skills.  
-
----
-
-## 📌 Categories  
-
-### 🛰️ Remote Sensing  
-Books covering the principles, techniques, and applications of remote sensing, including satellite imagery analysis, environmental monitoring, and earth observation.  
-
-### 🗺️ GIS & Spatial Analysis  
-Resources on Geographic Information Systems (GIS), spatial analysis, geostatistics, and geospatial modeling. This section also includes materials on open-source GIS tools like QGIS and ArcGIS.  
-
-### 💻 Programming for Geospatial Data  
-Books on programming languages such as Python and R for geospatial data processing, automation, and visualization. Topics include working with geospatial libraries, data engineering, and cloud-based geospatial computing.  
-
-### 🤖 Machine Learning & AI in GIS  
-Materials exploring the integration of Machine Learning (ML) and Artificial Intelligence (AI) in geospatial applications, including land cover classification, predictive modeling, deep learning for remote sensing, and spatial AI.  
+# 📚 GIS and Remote Sensing Books
+This folder contains a collection of books and learning resources focused on Geospatial technologies.
 
 ---
 
-## 📌 Contributing  
-Feel free to contribute by suggesting new books, adding summaries, or sharing valuable learning resources related to **GIS, Remote Sensing, Spatial Data Science, and AI**.  
+## 📌 Available Books
+
+### 💻 Programming & Automation
+- 🐍 **Python For ArcGIS** (2015)
+- 🛠️ **ArcPy and ArcGIS**: Automating ArcGIS for Desktop and Online
+- 🎨 **Customizing QGIS with Python** (Full Course)
+- 📖 **Programming ArcGIS 10.1 with Python Cookbook**
+- 🌍 **Python Geospatial Development**
+- 📊 **Think Stats**: Data Analysis in Python
+
+### 🗺️ GIS & Spatial Analysis
+- 🏆 **ArcGIS Pro Guide**
+- 🖼️ **ArcGIS Image Analysis Workflow**
+- 📍 **Concept GIS and GPS User Guide**
+- 📘 **Essentials of Geographic Information Systems**
+- 👶 **GIS For Dummies**
+- 🏥 **GIS Tutorial for Health**
+- 📐 **Spatial Analytics with ArcGIS** by Eric Pimpler
+- 📈 **Vector Analysis for GIS**
 
 ---
 
-🚀 **Happy Learning!**  
+## 📌 How to Contribute
+If you have a book or guide you'd like to share:
+1. Ensure you have the right to share the material or it is open-source.
+2. For files over 100MB, please link to the source rather than uploading.
+3. Add the book to the appropriate category above after uploading.
+
+🚀 **Happy Learning!**
+
