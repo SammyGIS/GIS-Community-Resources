@@ -3,78 +3,34 @@ A curated list of YouTube channels, experts, and organizations to follow for the
 
 ---
 
-## GDAL Tutorials
-- **Making Sense Remotely** - [YouTube Channel](https://www.youtube.com/@makingsenseremotely6207/)
-  - Focuses on remote sensing and GIS applications using GDAL and other tools.
+## 🚀 Geospatial Resource Directory
 
-## Remote Sensing Hands-On Tutorials
-- **NASA Video: Remote Sensing Hands-On** - [YouTube Channel](https://www.youtube.com/@NASAgovVideo)
-  - Offers tutorials on using various satellite data for remote sensing applications.
-- **EO AFRICA R&D Facility** - [YouTube Channel](https://www.youtube.com/@eoafricardfacility3607)
-  - Provides hands-on remote sensing applications, machine learning, and ESA SNAP tutorials.
+| Creator / Organization | Specialization | Overview / Focus Areas | Resource Link |
+| :--- | :--- | :--- | :--- |
+| **Making Sense Remotely** | GDAL & Remote Sensing | Focuses on remote sensing and GIS applications using GDAL and other open-source tools. | [YouTube](https://www.youtube.com/@makingsenseremotely6207/) |
+| **NASA Remote Sensing** | Satellite Observation | Offers hands-on tutorials on using various satellite data for remote sensing applications. | [YouTube](https://www.youtube.com/@NASAgovVideo) |
+| **EO AFRICA R&D Facility** | Env. Monitoring & ML | Provides hands-on remote sensing, machine learning, and ESA SNAP tutorials. | [YouTube](https://www.youtube.com/@eoafricardfacility3607) |
+| **Open Geospatial Solutions** | Data Science & Open Source | Specializes in geospatial data science, open-source software, and cloud computing. | [YouTube](https://www.youtube.com/@giswqs) |
+| **Wanjohi Kibui** | GIS Development | Covers GIS programming, software guides, career advice, and geospatial problem-solving. | [YouTube](https://www.youtube.com/@WanjohiKibui) |
+| **Matt Forrest** | Big Data & Engineering | Focuses on big data, cloud computing, and geospatial data engineering. | [YouTube](https://www.youtube.com/@MattForrest) |
+| **Esri (Official)** | Enterprise GIS | Official channel for Esri GIS applications, webinars, and tool updates. | [YouTube](https://www.youtube.com/@esrimaps) |
+| **ArcGIS (Official)** | Desktop & Web GIS | Demos, technical sessions, and case studies on the ArcGIS software ecosystem. | [YouTube](https://www.youtube.com/@esri_arcgis) |
+| **Esri Events** | GIS Community & Events | Features videos from Esri User Conferences, seminars, and technical summits. | [YouTube](https://www.youtube.com/@EsriEvents) |
+| **GIS on AWS / Jeff Demuth**| Cloud GIS Architecture | Serverless GIS, geospatial datalakes, and analysis with Spark on AWS. | [YouTube](https://www.youtube.com/@GISonAWSwithJeffDemuth-py6et) |
+| **Crunchy Data Postgres** | Spatial Databases | Updates and tutorials on PostgreSQL and PostGIS for spatial data management. | [YouTube](https://www.youtube.com/@CrunchyDataPostgres) |
+| **John Nelson Maps** | Cartography & Design | Explores aesthetic map design, storytelling, and artistic cartography. | [YouTube](https://www.youtube.com/@JohnNelsonMaps) |
+| **GIScience (RIT)** | Disaster & Research | Focuses on Geographic Information Science research, education, and disaster management. | [YouTube](https://www.youtube.com/@GIScienceRIT/shorts) |
+| **GeoDelta Labs** | QGIS & Data Analytics | Comprehensive tutorials on QGIS, remote sensing, and geospatial analytics. | [YouTube](https://www.youtube.com/@geodeltalabs) |
+| **RS & GIS** | Software Mastery | Tutorials on ArcGIS, QGIS, ENVI, SNAP, and satellite image processing. | [YouTube](https://www.youtube.com/@rsgis6997/playlists) |
+| **Amirhossein Ahrari** | Google Earth Engine | Expert tutorials on Google Earth Engine coding and spatial applications. | [YouTube](https://www.youtube.com/@amirhosseinahrarigee) |
+| **Ramadhan** | GeoAI & Env. Apps | GEE, remote sensing, and ML for environmental and agricultural applications. | [YouTube](https://www.youtube.com/@ramiqcom) |
+| **Spatial eLearning** | Cloud & Data Science | Geospatial data science, remote sensing, GIS, ML, and cloud computing. | [YouTube](https://www.youtube.com/@spatialelearning) |
+| **AI for Good** | Sustainable Development | Explores AI applications for sustainable development and planetary impact. | [YouTube](https://www.youtube.com/@AIforGood) |
+| **GeoPython Conference** | Python & Innovation | Showcases innovations, research, and discussions in geospatial Python development. | [YouTube](https://www.youtube.com/@GeoPython) |
+| **OGC (Open Geospatial)** | Standards & Interop | Promotes open geospatial standards for interoperability in GIS applications. | [YouTube](https://www.youtube.com/@opengeospatial) |
 
-## Open Source Geospatial Solutions & Data Science
-- **Open Geospatial Solutions** - [YouTube Channel](https://www.youtube.com/@giswqs)
-  - Specializes in geospatial data science, open-source software, and cloud computing for environmental analysis.
+---
 
-## Geospatial Development and Programming
-- **Wanjohi Kibui** - [YouTube Channel](https://www.youtube.com/@WanjohiKibui)
-  - Covers GIS programming, software guides, career advice, and geospatial problem-solving.
-
-## Geospatial Big Data, Cloud Computing, Geospatial Data Engineering and Analysis
-- **Matt Forrest** - [YouTube Channel](https://www.youtube.com/@MattForrest)
-  - Focuses on big data, cloud computing, and geospatial data engineering.
-
-## Esri and ArcGIS Resources
-- **Esri** - [YouTube Channel](https://www.youtube.com/@esrimaps)
-  - Provides insights into Esri GIS applications, webinars, and tool updates.
-- **ARGIS** - [YouTube Channel](https://www.youtube.com/@esri_arcgis)
-  - Offers demos, technical sessions, and case studies on ArcGIS software.
-- **Esri Events** - [YouTube Channel](https://www.youtube.com/@EsriEvents)
-  - Features videos from Esri User Conferences, seminars, summits, and webinars.
-
-## Geospatial Data on AWS 
-- **GIS on AWS with Jeff Demuth** - [YouTube Channel](https://www.youtube.com/@GISonAWSwithJeffDemuth-py6et)
-  - Covers topics such as serverless GIS, geospatial datalakes, and analysis with Spark.
-
-## PostgreSQL/PostGIS
-- **Crunchy Data Postgres** - [YouTube Channel](https://www.youtube.com/@CrunchyDataPostgres)
-  - Provides updates on PostgreSQL and PostGIS for spatial database management.
-
-## Geospatial Visualization and Cartography
-- **John Nelson Maps** - [YouTube Channel](https://www.youtube.com/@JohnNelsonMaps)
-  - Explores aesthetic and artistic map design for better visualization.
-
-## Geospatial Solutions and Disaster Management  
-- **GIScience** - [YouTube Channel](https://www.youtube.com/@GIScienceRIT/shorts)
-  - Focuses on Geographic Information Science research, education, and disaster management.
-
-## GIS and Remote Sensing Software Tutorials
-- **GeoDelta Labs** - [YouTube Channel](https://www.youtube.com/@geodeltalabs)
-  - Covers GIS, remote sensing, QGIS, and geospatial data analytics.
-- **RS & GIS** - [YouTube Channel](https://www.youtube.com/@rsgis6997/playlists)
-  - Offers tutorials on ArcGIS, QGIS, ENVI, SNAP, Google Earth, and satellite image processing.
-
-## Google Earth Engine & GeoAI
-- **Google Earth Engine with Amirhossein Ahrari** - [YouTube Channel](https://www.youtube.com/@amirhosseinahrarigee)
-  - Provides tutorials on Google Earth Engine coding and applications.
-
-- **Ramadhan** - [YouTube Channel](https://www.youtube.com/@ramiqcom)
-  - Google Earth Engine, remote sensing, and machine learning for environmental and agricultural applications.
-
-- **Spatial eLearning** - [YouTube Channel](https://www.youtube.com/@spatialelearning)
-  - Covers geospatial data science, remote sensing, GIS, machine learning, and cloud computing.
-
-## AI and Geospatial Innovations
-- **AI for Good** - [YouTube Channel](https://www.youtube.com/@AIforGood)
-  - Explores AI applications for sustainable development and planetary impact.
-
-- **GeoPython Conference** - [YouTube Channel](https://www.youtube.com/@GeoPython)
-  - Showcases the latest innovations, research papers, and discussions in geospatial Python development.
-
-## Geospatial Standards, tools and Innovations
-- **Open Geospatial Consortium (OGC)** - [YouTube Channel](https://www.youtube.com/@opengeospatial)
-  - Develops and promotes open geospatial standards for interoperability in GIS applications.
 
 
 
