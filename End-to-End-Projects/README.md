@@ -20,10 +20,19 @@ Showcasing real-world applications of geospatial technology from data collection
 ---
 
 ## 🤝 Want to share your project?
-We'd love to see what you've built! Create a subfolder here with:
-1. A **README** explaining the project.
-2. **Screenshots** or a link to the demo.
-3. **Source code** or snippets.
+We'd love to see what you've built! Create a subfolder here using this structure:
+
+```text
+/your-project-name
+  ├── README.md       (Architecture, Tech Stack, Usage)
+  ├── scripts/        (Core logic, analysis, or scraping)
+  ├── data/           (Sample data or links to sources)
+  └── visualization/  (Map exports, charts, or dashboards)
+```
+
+1. **A README** explaining the project goal and how to run it.
+2. **Screenshots** or a link to a live demo (if applicable).
+3. **Source code** or snippets with comments.
 
 ---
 🚀 **Apply your skills to solve real-world problems!**

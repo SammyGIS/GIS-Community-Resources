@@ -9,19 +9,19 @@ Welcome to the **GIS Community Resources** repository! This is a curated hub for
 | Section | Description |
 | :--- | :--- |
 | 📖 [**Books**](./Books) | A collection of PDF textbooks and reference guides. |
-| 📰 [**Articles & Papers**](./Articles%20&%20Papers) | Research papers and insightful geospatial articles. |
+| 📰 [**Articles & Papers**](./Articles-and-Papers) | Research papers and insightful geospatial articles. |
 | 🎓 [**Courses**](./Courses) | Recommended learning paths and course materials. |
-| 📜 [**Cheat Sheets**](./Cheat%20Sheet%20and%20InfoGraphs) | Quick reference guides for GIS, Python, and SQL. |
-| 📊 [**Data Sources**](./Data%20and%20Sources) | Links to open-source geospatial datasets. |
-| 🛤️ [**Roadmaps**](./Road%20Map) | Structured paths for beginners and advanced learners. |
-| 🏁 [**End Projects**](./End%20to%20End%20Projects) | Real-world project examples and case studies. |
+| 📜 [**Cheat Sheets**](./Cheat-Sheets) | Quick reference guides for GIS, Python, and SQL. |
+| 📊 [**Data & Sources**](./Data%20and%20Sources) | Links to open-source geospatial datasets. |
+| 🛤️ [**Roadmaps**](./Roadmaps) | Structured paths for beginners and advanced learners. |
+| 🏁 [**End-to-End Projects**](./End-to-End-Projects) | Real-world project examples and case studies. |
 | 🏆 [**Hackathons**](./Hackathon) | Resources and guidelines for GIS competitions. |
-| 👥 [**Content Creators**](./Top%20Geospatial%20Content%20Creator%20your%20Should%20Follow) | Top YouTube channels and experts to follow. |
+| 👥 [**Community Creators**](./Community-Creators) | Top YouTube channels and experts to follow. |
 
 ---
 
 ## 📌 Featured Resource: GIS Roadmaps
-Are you new to GIS? Check out our [**Learning Roadmaps**](./Road%20Map/README.md) to find the best path for your career!
+Are you new to GIS? Check out our [**Learning Roadmaps**](./Roadmaps/README.md) to find the best path for your career!
 
 ## 🤝 How to Contribute
 We value community contributions! To contribute:

@@ -1,6 +1,5 @@
-# 📝 GIS & Remote Sensing Cheat Sheets & Infographics  
-
-This repository contains a collection of **cheat sheets, quick reference guides, and infographics** covering key topics in **GIS, Remote Sensing, Spatial Data Science, and AI**. These resources are designed to provide **quick insights, essential commands, workflows, and best practices** for geospatial professionals, researchers, and data scientists.  
+# 📜 Cheat Sheets & Infographics
+Quick reference guides, essential commands, and visual workflows for Geospatial professionals.
 
 ---
 
@@ -13,9 +12,6 @@ This repository contains a collection of **cheat sheets, quick reference guides,
 
 ---
 
-## 📌 Categories  
-
----
 
 ## 📌 Contributing  
 Feel free to contribute by sharing useful **cheat sheets, infographics, or quick guides** related to **GIS, Remote Sensing, Spatial Data Science, and AI**.  
