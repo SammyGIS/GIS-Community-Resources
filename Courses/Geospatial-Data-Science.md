@@ -13,6 +13,13 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Programming**: Intermediate [Python](./Python.md) (Pandas, NumPy).
+*   **Statistics**: Spatial autocorrelation and hypothesis testing basics.
+*   **Data Viz**: Basic understanding of map projections.
+
+---
+
 ## 🎨 Level 1: Geospatial Visualization
 _Interactive mapping tutorials coming soon._
 

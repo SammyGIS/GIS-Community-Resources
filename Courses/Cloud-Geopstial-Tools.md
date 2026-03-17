@@ -13,6 +13,13 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Data Engineering**: Understanding of [Spatial Pipelines](./Geospatial-Data-Engineering.md).
+*   **Infrastructure**: Basic understanding of HTTP protocols and APIs.
+*   **Scripting**: Proficiency in [Python](./Python.md).
+
+---
+
 ## 🏛️ Level 1: Cloud Provider Fundamentals
 _Introduction to AWS, GCP, and Azure for GIS coming soon._
 

@@ -13,6 +13,12 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Scripting**: Basic [JavaScript](https://www.w3schools.com/js/) or [Python](./Python.md).
+*   **RS Basics**: Understanding of bands, resolution, and raster data.
+
+---
+
 ## 🏛️ Level 1: JavaScript API Foundations
 _Foundational learning resources coming soon._
 

@@ -13,6 +13,13 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Programming**: [Python Basics](./Python.md) (NumPy, Pandas).
+*   **Machine Learning**: Understanding of [ML Fundamentals](./Machine-Learning.md).
+*   **Math**: Linear Algebra and Calculus basics.
+
+---
+
 ## 🏛️ Foundations: CNNs & Basic Neural Nets
 - [**Deep Learning with CNNs (Playlist)**](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9U0XHz62Lw6EgIMkQpfz74) - Comprehensive series on CNN architectures.
 

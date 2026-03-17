@@ -13,6 +13,13 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Database Foundations**: [Basic SQL](https://www.w3schools.com/sql/) (SELECT, JOINs).
+*   **Scripting**: [Python Fundamentals](./Python.md).
+*   **Infrastructure**: Basic knowledge of linux/terminal is helpful.
+
+---
+
 ## 🏛️ Level 1: Spatial Databases
 _Resources for PostGIS and SQL coming soon._
 

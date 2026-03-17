@@ -13,6 +13,12 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **GIS Skills**: Basic spatial analysis using [QGIS](./QGIS.md) or [Python/GeoPandas](./Python.md).
+*   **Domain Knowledge**: Basic understanding of climate cycles and earth systems.
+
+---
+
 ## 🏛️ Level 1: Earth System Foundations
 _Resources for understanding climate dynamics coming soon._
 

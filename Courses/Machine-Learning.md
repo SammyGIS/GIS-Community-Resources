@@ -13,6 +13,12 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Programming**: [Python Fundamentals](./Python.md) (Pandas, Scikit-learn).
+*   **Statistics**: Basic probability and distribution knowledge.
+
+---
+
 ## 🏛️ Level 1: Foundations & Classical Models
 - [**Machine Learning Python Tutorial**](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Master the basics of ML with real-world Python examples.
 

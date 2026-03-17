@@ -13,6 +13,12 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Statistics**: Basic understanding of mean, variance, and hypothesis testing.
+*   **Software**: Proficiency in [QGIS](./QGIS.md), [ArcGIS](./ArcGIS.md), or [R/Python](./Python.md).
+
+---
+
 ## 🏛️ Level 1: Spatial Pattern Analysis
 _Resources for Kernel Density and Distribution coming soon._
 

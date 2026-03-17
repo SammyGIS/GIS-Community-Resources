@@ -13,6 +13,12 @@ graph TD
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **GIS Software**: Familiarity with [QGIS](./QGIS.md) or [ArcGIS](./ArcGIS.md).
+*   **Geography**: Basic understanding of map projections and coordinate systems.
+
+---
+
 ## 🏛️ Level 1: Geometric Foundations
 _Coordinate Reference Systems (CRS) and Projections coming soon._
 

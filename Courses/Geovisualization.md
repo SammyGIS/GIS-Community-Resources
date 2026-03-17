@@ -13,6 +13,13 @@ graph LR
 
 ---
 
+## 🛠️ Mandatory Prerequisites
+*   **Web Basics**: [HTML, CSS, and JavaScript](https://www.w3schools.com/) (for Web Mapping).
+*   **Design**: Basic understanding of color theory and typography.
+*   **Data**: Fundamental knowledge of vector and raster files.
+
+---
+
 ## 🎨 Level 1: Cartographic Principles
 _Resources for color theory and Map Design coming soon._
 

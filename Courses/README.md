@@ -8,6 +8,7 @@ This folder contains curated links and resources for various GIS and Geospatial 
 ### 🐍 Python & Automation
 - [**Python for Geospatial**](./Python.md) - Automating workflows and spatial analysis.
 - [**Google Earth Engine**](./Google-earth-engine.md) - JavaScript and Python API for planetary-scale analysis.
+- [**Geospatial Developer**](./Geospatial-Developer.md) - Full Stack development (Frontend & Backend).
 
 ### 🤖 Machine Learning & AI
 - [**Machine Learning in GIS**](./Machine-Learning.md) - Integrating ML with spatial data.
@@ -19,6 +20,8 @@ This folder contains curated links and resources for various GIS and Geospatial 
 
 ### 🎨 Visualization & Design
 - [**Geovisualization**](./Geovisualization.md) - Modern cartography and dashboarding.
+- [**ArcGIS Mastery**](./ArcGIS.md) - Mastering the Esri ecosystem.
+- [**QGIS Mastery**](./QGIS.md) - Open-source GIS excellence.
 
 ### 🧪 Geospatial Data Science & Engineering
 - [**Geospatial Data Science**](./Geospatial-Data-Science.md) - Extracting insights using spatial data science.
