@@ -28,6 +28,7 @@ When choosing a data source for your GIS project, keep these factors in mind:
 | **NASA Earthdata** | Comprehensive planetary data, climate, and imagery. | [earthdata.nasa.gov](https://earthdata.nasa.gov) |
 | **USGS Earth Explorer** | Landsat, aerial imagery, and global DEMs. | [earthexplorer.usgs.gov](https://earthexplorer.usgs.gov) |
 | **Copernicus Hub** | European Sentinel-1, -2, -3, and -5P mission data. | [scihub.copernicus.eu](https://scihub.copernicus.eu) |
+| **WEkEO** | Cloud computing platform with access to all Copernicus data (Sentinel & Hubs) in one place. | [wekeo.copernicus.eu](https://wekeo.copernicus.eu/) |
 
 ### 🗺️ Administrative & OpenStreetMap (OSM) Data
 | Provider | Focus Area | Link |
