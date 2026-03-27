@@ -48,5 +48,8 @@ Deep Learning is built on math. Understanding these concepts will make you a muc
 ## 🚀 Implementation: Specialized Models
 - [**Segment Anything Model (SAM) for Geospatial**](https://samgeo.sam-methods.info/) - Meta's SAM applied to satellite imagery.
 
+## 🌐 Comprehensive Platforms & Organizations
+- [**Spatial Ecology**](https://spatial-ecology.net/) - A comprehensive codebase and platform full of material on GeoML computations, GeoFM (Geospatial Foundation Models), remote sensing, and deep learning.
+
 ---
 _Happy Mapping! 🌍✨_
