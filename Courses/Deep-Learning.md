@@ -43,6 +43,7 @@ Deep Learning is built on math. Understanding these concepts will make you a muc
 ## 👁️ Advanced: Vision Transformers (ViT)
 - [**Vision Transformers - Explained!**](https://www.youtube.com/watch?v=Hnsrm1ezI3g) - Conceptual overview.
 - [**Vision Transformer in PyTorch**](https://www.youtube.com/watch?v=ovB0ddFtzzA&t=784s) - Implementation tutorial.
+- [**Transformers Short Course: Transformer for Meteorological Forecasting Based on Multi-dimensional In (2022-11-30 16:03 GMT-6)**](https://drive.google.com/file/d/1Tr-uk4bnkFoH2obsjKoiJq2RedEQ-m6L/view)
 
 ## 🚀 Implementation: Specialized Models
 - [**Segment Anything Model (SAM) for Geospatial**](https://samgeo.sam-methods.info/) - Meta's SAM applied to satellite imagery.
