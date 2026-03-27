@@ -47,7 +47,7 @@ Deep Learning is built on math. Understanding these concepts will make you a muc
 - [**Transformers Short Course: Transformer for Meteorological Forecasting Based on Multi-dimensional In (2022-11-30 16:03 GMT-6)**](https://drive.google.com/file/d/1Tr-uk4bnkFoH2obsjKoiJq2RedEQ-m6L/view)
 
 ## 🚀 Implementation: Specialized Models
-- [**Segment Anything Model (SAM) for Geospatial**](https://samgeo.sam-methods.info/) - Meta's SAM applied to satellite imagery.
+- [**Segment Anything Model (SAM) for Geospatial**](https://github.com/opengeos/segment-geospatial) - Meta's SAM applied to satellite imagery.
 
 ## 🌐 Comprehensive Platforms & Organizations
 - [**Spatial Ecology**](https://spatial-ecology.net/) - A comprehensive codebase and platform full of material on GeoML computations, GeoFM (Geospatial Foundation Models), remote sensing, and deep learning.
