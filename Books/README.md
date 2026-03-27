@@ -27,6 +27,13 @@ This folder contains a collection of books and learning resources focused on Geo
 | **Spatial Analytics with ArcGIS** | Advanced spatial modeling and analytics. | [PDF](./Spatial%20Analytics%20with%20ArcGIS%20by%20Eric%20Pimpler%20(z-lib.org).pdf) |
 | **Vector Analysis for GIS** | Geometric and topological operations. | [PDF](./Vector_analysis.pdf) |
 
+### 🤖 Machine Learning & Deep Learning
+| Resource | Primary Focus | Link |
+| :--- | :--- | :--- |
+| **Interpretable Machine Learning** | Interpretable ML (Molnar). | [Website](https://christophm.github.io/interpretable-ml-book/) |
+| **Deep Learning** | Core textbook (Goodfellow et al). | [Website](https://www.deeplearningbook.org/) |
+| **Neural Networks and Deep Learning** | Core concepts (Nielsen). | [Website](https://neuralnetworksanddeeplearning.com/) / [Code](https://github.com/mnielsen/neural-networks-and-deep-learning) |
+
 ---
 
 ## 📌 How to Contribute

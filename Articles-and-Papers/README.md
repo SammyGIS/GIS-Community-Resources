@@ -59,6 +59,8 @@ The intersection of artificial intelligence and geospatial data, including objec
 | Resource Name | Description | Link |
 | :--- | :--- | :--- |
 | **Unlocking the Power of Python: Top GIS and RS Libraries** | Exploring Python's ecosystem for AI-driven geospatial data analysis. | [Read Article](https://koka-tic.medium.com/unlocking-the-power-of-python-top-gis-and-remote-sensing-libraries-for-data-analysis-bb968e3139e9) |
+| **Tackling Climate Change with Machine Learning** | A comprehensive review by Rolnick et al. (2019). | [Read Article](https://arxiv.org/abs/1906.05433) |
+| **Deep Learning and Process Understanding for Data-Driven Earth System Science** | Nature review by Reichstein et al. (2019). | [Read Article](https://www.nature.com/articles/s41586-019-0912-1) |
 
 ---
 

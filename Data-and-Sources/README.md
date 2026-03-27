@@ -50,6 +50,12 @@ When choosing a data source for your GIS project, keep these factors in mind:
 | **ALOS PALSAR** | High-res global 12.5m radiometrically corrected DEM. | [search.asf.alaska.edu](https://search.asf.alaska.edu) |
 | **GEE Data Catalog** | Massive multi-petabyte analysis-ready data catalog. | [Earth Engine datasets](https://developers.google.com/earth-engine/datasets) |
 
+### 🤖 Machine Learning Benchmark Datasets
+| Provider | Focus Area | Link |
+| :--- | :--- | :--- |
+| **Pangeo** | Benchmark datasets for Earth System ML. | [mldata.pangeo.io](https://mldata.pangeo.io/index.html) |
+| **Kaggle** | Massive repository of open ML datasets. | [kaggle.com/datasets](https://www.kaggle.com/datasets) |
+
 ---
 ## 📌 Contributing  
 Feel free to suggest additional topics or share relevant data sources. If you have useful datasets, tools, or research papers, consider contributing to this repository!

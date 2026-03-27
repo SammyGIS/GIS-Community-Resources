@@ -39,6 +39,7 @@ Deep Learning is built on math. Understanding these concepts will make you a muc
 
 ## 🛠️ Frameworks: TensorFlow & PyTorch
 - [**Deep Learning with TensorFlow, Keras, and Python**](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) - A comprehensive guide to building neural networks.
+- [**Deep Learning with PyTorch Full Course | Master PyTorch, Tensors, and Neural Networks**](https://www.youtube.com/watch?v=IFsVsXAqPto&list=PPSV) - A full masterclass on Deep Learning and Tensors with PyTorch.
 
 ## 👁️ Advanced: Vision Transformers (ViT)
 - [**Vision Transformers - Explained!**](https://www.youtube.com/watch?v=Hnsrm1ezI3g) - Conceptual overview.
